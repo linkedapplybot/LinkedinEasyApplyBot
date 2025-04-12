@@ -1,4 +1,4 @@
-# 🔗 Linked Apply Bot 
+# 🔗 Linkedin Apply Bot 
 
 
 > Automate "Easy Apply" job applications on Linked with AI-powered precision. Save 10+ hours/week.
